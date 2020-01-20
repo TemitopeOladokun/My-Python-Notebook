@@ -5,16 +5,7 @@ WORD OF ADVICE: Don't read the entire dictionary of the language. Make google yo
 
 ## Data Types
 ### Python has different data types. 
-* 1. Fundamental data types
-  *int
-  *float
-  *bool
-  *str
-  *list
-  *tuple
-  *set
-  *dict
-  
-* 2. Classes: These are custom data types.
-* 3. None: This data types is use to signify that it has no value. 
-* 4. Specialized data types
+* Fundamental data types: integer (int), float, boolean (bool), string (str), list, tuple, set, dict  
+* Classes: These are custom data types.
+* None: This data types is use to signify that it has no value. 
+* Specialized data types
