@@ -22,13 +22,12 @@ print("\n")
 weight2 = int(input("Weight: "))
 unit2 = input("Enter (L) for Pounds or (K) for Kilogram: ")
 print(unit2)
+#if unit2.upper() == "L":
 if unit2 == "L":
     converter = weight2 * 0.45 
     print("You are {%s} kilograms" % (converter))
-elif unit2.upper == "K":
+else:
     converter = weight2 / 0.45
     print("You are {%s} pounds" % (converter))
-else:
-    print("Try again")
 
 
