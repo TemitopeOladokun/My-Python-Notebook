@@ -1,4 +1,4 @@
-# Python-
+# Python
 My Python notebook
 
 WORD OF ADVICE: Don't read the entire dictionary of the language. Make google your friend.
